@@ -84,7 +84,7 @@ st.caption(
 )
 
 # Section 1: Reference values are shown for transparency but cannot be edited.
-st.subheader("1. ข้อมูลการฟาร์มอ้างอิง")
+st.subheader("1. ข้อมูลอ้างอิง")
 reference_left, reference_right = st.columns(2)
 with reference_left:
     st.number_input(
